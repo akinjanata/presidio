@@ -10,3 +10,4 @@ torch
 flair
 openai
 azure-ai-textanalytics
+transformers>=4.50.0 # not directly required, pinned by Snyk to avoid a vulnerability
